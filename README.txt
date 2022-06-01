@@ -1,1 +1,1 @@
-Socket Programming in C and Python
+Socket Programming in Python
