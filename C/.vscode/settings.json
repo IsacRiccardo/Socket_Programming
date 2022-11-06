@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/rico/Documents/RC/Proiect",
+            "binaryPath": "/home/rico/Documents/RC/Proiect/server",
+            "binaryArgs": []
+        }
+    ]
+}

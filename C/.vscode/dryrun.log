@@ -1,0 +1,5 @@
+make server --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/rico/Documents/RC/Proiect'
+gcc -pthread -o server server.c
+make: Leaving directory '/home/rico/Documents/RC/Proiect'
+ 
